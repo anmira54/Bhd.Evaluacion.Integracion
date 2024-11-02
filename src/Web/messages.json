@@ -1,0 +1,18 @@
+{
+  "Error": {
+    "Validation": {
+      "UserCreation": {
+        "EmailAlreadyExists": "El correo electrónico ya se encuentra registrado.",
+        "PasswordComplexity": "La contraseña no cumple con los requisitos necesarios.",
+        "EmailFormat": "El correo electrónico no tiene un formato válido.",
+        "PhoneFormat": "El formato del teléfono no es válido.",
+        "EmptyCityCode": "El código de ciudad no puede estar vacío.",
+        "EmptyCountryCode": "El código de país no puede estar vacío.",
+        "CountryCityNotFound": "El país y la ciudad no se encuentran registrados."
+      }
+    },
+    "Unauthorized": {
+      "InactiveUser": "El usuario se encuentra inactivo."
+    }
+  }
+}
