@@ -1,6 +1,6 @@
 ﻿# Bhd.Evaluacion.Integracion
 
-The project was generated using the [Clean.Architecture.Solution.Template](https://github.com/jasontaylordev/Bhd.Evaluacion.Integracion) version 8.0.6.
+The project was generated using the [Clean.Architecture.Solution.Template](https://github.com/jasontaylordev/CleanArchitecture) version 8.0.6.
 
 ## Build
 
@@ -43,15 +43,6 @@ If you encounter the error *"No templates or subcommands found matching: 'ca-use
 
 ```bash
 dotnet new install Clean.Architecture.Solution.Template::8.0.6
-```
-
-## Test
-
-The solution contains unit, integration, and functional tests.
-
-To run the tests:
-```bash
-dotnet test
 ```
 
 ## Help
